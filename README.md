@@ -23,7 +23,7 @@ The purpose of this analysis is to help PyBer, a ride sharing app, company by cr
 
 -Total Fare by city type (Jan & Apr 2019)
 
- ![image](https://user-images.githubusercontent.com/89875689/144095173-8d556c83-1e5f-44ff-bf80-7cc0dd6988f4.png)
+![image](https://user-images.githubusercontent.com/89875689/144096406-d5c634d4-d997-40f2-8eb3-862268b003e8.png)
 
 
 **Summary
